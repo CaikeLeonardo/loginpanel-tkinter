@@ -54,19 +54,6 @@ Certifique-se de ter o **Python 3.x** instalado na sua máquina. O `Tkinter` ger
    python painel_login.py
    ```
 
----
-
-## 💡 Dicas para Evolução do Projeto (Roadmap)
-
-Se você desejar expandir este projeto para o seu portfólio, aqui estão algumas sugestões de melhorias:
-
-- [ ] **Criptografia de Senhas:** Utilizar a biblioteca `hashlib` ou `bcrypt` para não salvar senhas em texto puro.
-- [ ] **Banco de Dados:** Substituir o arquivo `.txt` por **SQLite** ou **MySQL**.
-- [ ] **Ocultar/Exibir Senha:** Adicionar um botão no campo de senha para alternar a visibilidade dos caracteres.
-- [ ] **Validações Avançadas:** Impedir campos vazios ou senhas muito curtas.
-
----
-
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar para estudos.
